@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - spike
+  - money
+  - Bomb
+  - GunLayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - GunLayer
+  - building
+  - bricks
+  - player
+  - obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundColor
+    uniqueID: 3366745935
+    locked: 0
+  - name: Cloud
+    uniqueID: 4156222627
+    locked: 0
+  - name: Object
+    uniqueID: 3651358233
+    locked: 0
